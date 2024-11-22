@@ -58,4 +58,7 @@ For future iterations, the platform could benefit from enhanced personalization 
 
 Conclusion   
 
-This project successfully developed a user-friendly platform that balances simplicity with functionality, allowing users to explore available courses and engage with the business easily. The design supports a professional and transparent experience that aligns with the mission of "Empowering the Nation." Future enhancements will focus on expanding personalization and refining search capabilities to continuously improve user satisfaction and engagement. 
+This project successfully developed a user-friendly platform that balances simplicity with functionality, allowing users to explore available courses and engage with the business easily. The design supports a professional and transparent experience that aligns with the mission of "Empowering the Nation." Future enhancements will focus on expanding personalization and refining search capabilities to continuously improve user satisfaction and engagement.                    
+
+youtube link:
+https://youtu.be/bOCiYqX-OFs 
